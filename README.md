@@ -1,6 +1,6 @@
 # VueCalc
 
-![](https://gitlab.com/ticketchainer/vuecalc/-/raw/main/vuecal.png)
+![](https://raw.githubusercontent.com/tux86/vuecalc/master/wireframe.png)
 
 ## Intro:
 
